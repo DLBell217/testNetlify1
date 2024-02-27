@@ -350,3 +350,7 @@ Images from:
               <circle cx="600.35" cy="480.68" r="11.968" fill="#ff6347" />
             </svg>
           </div>
+
+
+
+bg-gradient-to-b from-blue-700 to-green-700 antialiased px-4
